@@ -3,7 +3,7 @@ title: "Kivyで作る数独自動解答アプリ①"
 emoji: "🎃"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Kivy", "Python", "数独"]
-published: false
+published: true
 ---
 
 ## はじめに
