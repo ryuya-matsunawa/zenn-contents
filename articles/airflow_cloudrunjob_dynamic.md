@@ -3,7 +3,7 @@ title: "Cloud Run JobsをAirflowで動的に実行する"
 emoji: "🏃‍♂️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Airflow", "CloudComposer", "CloudRunJobs", "CloudScheduler"]
-published: false
+published: true
 publication_name: "wed_engineering"
 ---
 
