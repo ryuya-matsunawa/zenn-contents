@@ -221,3 +221,8 @@ Cloud Run JobsをAirflowで動的に実行する方法について紹介しま�
 改善点としては、DAGのコード量が増えてしまうのでより良い方法があれば検討したいです。
 Airflowのみで並列実行すること自体は可能なので、Cloud Run Jobsを使用するかどうかは状況によって変わると思います。
 この記事が、Cloud Run JobsをAirflowで動的に実行する際の参考になれば幸いです。
+
+## 公式ドキュメント
+- [Apache Airflow](https://airflow.apache.org/)
+- [Cloud Composer](https://cloud.google.com/composer?hl=ja)
+- [Cloud Run Jobs](https://cloud.google.com/run/docs/create-jobs?hl=ja)
